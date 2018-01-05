@@ -215,5 +215,36 @@ k=150
 k=200
 18/01/03 21:33:51 INFO RecommenderJob: Evaluator value:MPE is 0.986461689026628
 18/01/03 21:33:51 INFO RecommenderJob: Evaluator value:MAE is 0.5526026237602172
-18/01/03 21:33:51 INFO RecommenderJob: Evaluator value:RMSE is 0.738842994340789                         9
+18/01/03 21:33:51 INFO RecommenderJob: Evaluator value:RMSE is 0.7388429943407899
 18/01/03 21:33:51 INFO RecommenderJob: Evaluator value:MSE is 0.5458889702864645
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+uirtSe12LoAll
+k=50
+18/01/04 21:39:58 INFO RecommenderJob: Evaluator value:MPE is 0.9869338334216642
+18/01/04 21:39:58 INFO RecommenderJob: Evaluator value:MAE is 0.546369968855219
+18/01/04 21:39:58 INFO RecommenderJob: Evaluator value:RMSE is 0.7309058229568289
+18/01/04 21:39:58 INFO RecommenderJob: Evaluator value:MSE is 0.5342233220321994
+k=80
+18/01/04 21:38:36 INFO RecommenderJob: Evaluator value:MPE is 0.9870357535977822
+18/01/04 21:38:36 INFO RecommenderJob: Evaluator value:MAE is 0.5466080796764575
+18/01/04 21:38:36 INFO RecommenderJob: Evaluator value:RMSE is 0.7315899529322184
+18/01/04 21:38:36 INFO RecommenderJob: Evaluator value:MSE is 0.5352238592313655
+k=100
+18/01/04 21:40:14 INFO RecommenderJob: Evaluator value:MPE is 0.9862407762240614
+18/01/04 21:40:14 INFO RecommenderJob: Evaluator value:MAE is 0.5467435500849974
+18/01/04 21:40:14 INFO RecommenderJob: Evaluator value:RMSE is 0.7320046060647405
+18/01/04 21:40:14 INFO RecommenderJob: Evaluator value:MSE is 0.5358307432999959
+k=
