@@ -161,6 +161,11 @@ uirtAll
 18/01/02 17:17:32 INFO RecommenderJob: Evaluator value:MAE is 0.5627437481404048
 18/01/02 17:17:32 INFO RecommenderJob: Evaluator value:RMSE is 0.7517287833666975
 18/01/02 17:17:32 INFO RecommenderJob: Evaluator value:MSE is 0.5650961637419752
+uirtSe4All
+18/01/09 20:35:11 INFO RecommenderJob: Evaluator value:MSE is 0.5638287404122203
+18/01/09 20:35:11 INFO RecommenderJob: Evaluator value:MPE is 0.9871602326811211
+18/01/09 20:35:11 INFO RecommenderJob: Evaluator value:MAE is 0.5603457314107018
+18/01/09 20:35:11 INFO RecommenderJob: Evaluator value:RMSE is 0.7508853044321885
 uirtSe12All
 18/01/02 17:22:16 INFO RecommenderJob: Evaluator value:MPE is 0.9866981727811616
 18/01/02 17:22:16 INFO RecommenderJob: Evaluator value:MAE is 0.5556676766284818
